@@ -1,0 +1,1 @@
+This project contains  a weighted round robin scheduler that is pluggable into the Linux kernel.
